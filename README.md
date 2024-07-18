@@ -1,10 +1,14 @@
 # Selenium_Waits_Tests
 
 **Prerequisites**
+
 	Create a new NUnit test project.
+
 	Install the necessary Selenium packages via NuGet: 
 Selenium.WebDriver, Selenium.WebDriver.ChromeDriver, Selenium.Support.
+
 	Initialize the ChromeDriver and navigate to the application URL.
+
 	All the tests will be performed on the following URL: https://ww/selenium.dev/selenium/web/dynamic.html 
 
 
@@ -36,7 +40,7 @@ In order to use Expected Conditions, you need to install SeleniumExtras.WaitHelp
 
 **6.Custom Waits Conditions**
 
--      Create a new test called RevealInputWithCustomFluentWait().
+ - Create a new test called RevealInputWithCustomFluentWait().
   
 **7.Exceptions:**
 
